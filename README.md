@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Siddharth Chamarthy</h1>
-<h3 align="center">A curious and committed data-driven mechanical engineer with 3+ years of experience working in a fast-paced health tech start-up, looking for fresh challenging opportunities in the field of machine learning, robotics, and healthcare technology.</h3>
+<h3 align="center">A curious and committed data-driven mechanical engineer always up for fresh challenging opportunities in the field of machine learning, robotics, and healthcare technology.</h3>
 
 - 🔭 I’m currently working on **Breast Cancer Classification and Heart Disease prediction**
 
