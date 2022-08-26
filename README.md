@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 👨‍💻 All of my projects are available at [https://sidd23295.wixsite.com/sidd23295](://sidd23295.wixsite.com/sidd23295)
+- 👨‍💻 All of my projects are available at [my website](https://sidd23295.wixsite.com/sidd23295)
 
 - 📫 How to reach me **sidd23295@gmail.com**
 
